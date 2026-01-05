@@ -12,6 +12,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "express": "^5.2.1"
+    "csvtojson": "^2.0.14",
+    "express": "^5.2.1",
+    "xlsx": "^0.18.5"
   }
 }
